@@ -1,0 +1,10 @@
+*.pdb
+*.vsidx
+*.v2
+*.bin
+*.cache
+*.resources
+*.BuildWithSkipAnalyzers
+*.CopyComplete
+
+

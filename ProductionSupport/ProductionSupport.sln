@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductionSupport", "ProductionSupport.csproj", "{5A5D54ED-F82B-4213-B194-2E5F2536AB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scmJobConfig", "..\scmJobConfig\scmJobConfig.csproj", "{FE9DDD90-5345-4093-97A5-43637B57692F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5D54ED-F82B-4213-B194-2E5F2536AB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5D54ED-F82B-4213-B194-2E5F2536AB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5D54ED-F82B-4213-B194-2E5F2536AB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5D54ED-F82B-4213-B194-2E5F2536AB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9DDD90-5345-4093-97A5-43637B57692F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9DDD90-5345-4093-97A5-43637B57692F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9DDD90-5345-4093-97A5-43637B57692F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9DDD90-5345-4093-97A5-43637B57692F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE73C35-7D17-4D82-A1FB-F43DCB56E6CE}
+	EndGlobalSection
+EndGlobal
